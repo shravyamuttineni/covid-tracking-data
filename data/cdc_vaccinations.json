@@ -1,1 +1,15 @@
-{"Message":"An error has occurred.","ExceptionMessage":"There is no row at position 0.","ExceptionType":"System.IndexOutOfRangeException","StackTrace":"   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)\r\n   at COVIDData.WidgetDataRepository.GetAjaxData(String key) in C:\\Users\\uas1-su\\source\\repos\\cdtwebapirepo\\Services\\WidgetDataRepository.vb:line 7\r\n   at COVIDData.COVIDData.COVIDDataController.GetAjaxData(String id) in C:\\Users\\uas1-su\\source\\repos\\cdtwebapirepo\\Controllers\\COVIDDataController.vb:line 34\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass10.<GetExecutor>b__9(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__0.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__2.MoveNext()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at System.Web.Http.Dispatcher.HttpControllerDispatcher.<SendAsync>d__1.MoveNext()"}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>CDC Error Page</title>
+  <link rel="stylesheet" href="/apology_files/style.css">
+</head>
+<body>
+<h1>Centers for Disease Control and Prevention</h1>
+<h2>Error Page</h2>
+<p>This is an error page for covid.cdc.gov.</p>
+<p>This page will appear if an error or timeout occurs at origin.</p>
+<p><span>Reference ID: 0.65643017.1743096791.775cecfe</span></p>
+</body></html>
+

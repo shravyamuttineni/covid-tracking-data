@@ -37,6 +37,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/30/2020,09/05/2020,By Week,2020,,36,09/05/2020,United States,5021,60247,118,5220,2510,9,7736,
 04/17/2025,09/06/2020,09/12/2020,By Week,2020,,37,09/12/2020,United States,4628,59665,116,4949,2298,7,7284,
 04/17/2025,09/13/2020,09/19/2020,By Week,2020,,38,09/19/2020,United States,4280,59740,116,4781,2053,5,7013,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Florida,5573,231933,112,15896,2708,515,19238,
 04/17/2025,09/20/2020,09/26/2020,By Week,2020,,39,09/26/2020,United States,4305,60613,117,4949,2120,4,7137,
 04/17/2025,09/27/2020,10/03/2020,By Week,2020,,40,10/03/2020,United States,4246,59802,114,4835,2042,8,7047,
 04/17/2025,10/04/2020,10/10/2020,By Week,2020,,41,10/10/2020,United States,4823,61779,118,5193,2370,13,7656,
@@ -109,6 +110,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/16/2022,01/22/2022,By Week,2022,,3,01/22/2022,United States,21407,85778,141,14443,10937,150,25015,
 04/17/2025,01/23/2022,01/29/2022,By Week,2022,,4,01/29/2022,United States,21035,85148,143,14295,10882,94,24507,
 04/17/2025,01/30/2022,02/05/2022,By Week,2022,,5,02/05/2022,United States,18802,81406,137,13277,9893,89,22238,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Florida,3743,230848,111,15308,1845,690,17845,
 04/17/2025,02/06/2022,02/12/2022,By Week,2022,,6,02/12/2022,United States,15367,77335,130,11125,8027,85,18518,
 04/17/2025,02/13/2022,02/19/2022,By Week,2022,,7,02/19/2022,United States,11598,71093,121,9175,6108,67,14712,
 04/17/2025,02/20/2022,02/26/2022,By Week,2022,,8,02/26/2022,United States,8314,66232,114,7315,4250,65,11422,
@@ -118,6 +120,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,03/20/2022,03/26/2022,By Week,2022,,12,03/26/2022,United States,2520,58683,103,3955,1092,84,5454,
 04/17/2025,03/27/2022,04/02/2022,By Week,2022,,13,04/02/2022,United States,1924,58163,104,3632,752,77,4872,
 04/17/2025,04/03/2022,04/09/2022,By Week,2022,,14,04/09/2022,United States,1578,57948,104,3349,550,96,4449,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Florida,420,64641,31,4421,204,781,5402,
 04/17/2025,04/10/2022,04/16/2022,By Week,2022,,15,04/16/2022,United States,1415,57940,105,3418,500,95,4418,
 04/17/2025,04/17/2022,04/23/2022,By Week,2022,,16,04/23/2022,United States,1357,56809,105,3316,480,106,4285,
 04/17/2025,04/24/2022,04/30/2022,By Week,2022,,17,04/30/2022,United States,1433,57414,107,3324,496,95,4347,
@@ -146,6 +149,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,10/02/2022,10/08/2022,By Week,2022,,40,10/08/2022,United States,2202,59706,114,3558,731,28,5055,
 04/17/2025,10/09/2022,10/15/2022,By Week,2022,,41,10/15/2022,United States,2157,59871,114,3571,675,56,5099,
 04/17/2025,10/16/2022,10/22/2022,By Week,2022,,42,10/22/2022,United States,2265,60249,113,3842,744,57,5359,
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Georgia,10454,103561,122,9619,5131,200,15137,
 04/17/2025,10/23/2022,10/29/2022,By Week,2022,,43,10/29/2022,United States,2247,60194,112,3680,759,96,5258,
 04/17/2025,10/30/2022,11/05/2022,By Week,2022,,44,11/05/2022,United States,2269,61213,113,3797,771,156,5428,
 04/17/2025,11/06/2022,11/12/2022,By Week,2022,,45,11/12/2022,United States,2221,61217,113,3875,705,230,5598,
@@ -154,6 +158,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,11/27/2022,12/03/2022,By Week,2022,,48,12/03/2022,United States,2617,65954,119,4674,911,854,7181,
 04/17/2025,12/04/2022,12/10/2022,By Week,2022,,49,12/10/2022,United States,3057,67228,119,4990,1085,1034,7937,
 04/17/2025,12/11/2022,12/17/2022,By Week,2022,,50,12/17/2022,United States,3225,66580,116,4960,1128,1055,8031,
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Georgia,17310,112795,132,13916,9815,47,21442,
 04/17/2025,12/18/2022,12/24/2022,By Week,2022,,51,12/24/2022,United States,3392,68141,118,5007,1194,955,8048,
 04/17/2025,12/25/2022,12/31/2022,By Week,2022,,52,12/31/2022,United States,3697,70370,120,5445,1289,995,8761,
 04/17/2025,01/01/2023,01/07/2023,By Week,2023,,1,01/07/2023,United States,3873,69092,112,5519,1435,889,8786,
@@ -240,6 +245,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,07/21/2024,07/27/2024,By Week,2024,,30,07/27/2024,United States,861,56138,111,3182,372,20,3688,
 04/17/2025,07/28/2024,08/03/2024,By Week,2024,,31,08/03/2024,United States,988,56756,112,3178,405,34,3791,
 04/17/2025,08/04/2024,08/10/2024,By Week,2024,,32,08/10/2024,United States,1068,56468,110,3172,439,29,3826,
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Georgia,7229,102871,121,7308,3186,202,11531,
 04/17/2025,08/11/2024,08/17/2024,By Week,2024,,33,08/17/2024,United States,1083,56661,112,3196,456,24,3845,
 04/17/2025,08/18/2024,08/24/2024,By Week,2024,,34,08/24/2024,United States,1257,56583,112,3165,487,34,3965,
 04/17/2025,08/25/2024,08/31/2024,By Week,2024,,35,08/31/2024,United States,1356,56614,111,3179,497,35,4069,
@@ -282,17 +288,21 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/26/2020,02/01/2020,By Week,2020,,5,02/01/2020,Alabama,0,1026,94,56,0,14,70,
 04/17/2025,02/02/2020,02/08/2020,By Week,2020,,6,02/08/2020,Alabama,0,1120,101,61,0,10,71,
 04/17/2025,02/09/2020,02/15/2020,By Week,2020,,7,02/15/2020,Alabama,0,1095,101,77,0,,83,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Georgia,2065,96883,114,4832,766,187,6309,
 04/17/2025,02/16/2020,02/22/2020,By Week,2020,,8,02/22/2020,Alabama,0,1098,101,68,0,,73,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/23/2020,02/29/2020,By Week,2020,,9,02/29/2020,Alabama,,1164,112,63,0,14,78,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/01/2020,03/07/2020,By Week,2020,,10,03/07/2020,Alabama,0,1057,101,58,0,13,71,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Georgia,1375,96654,113,4941,530,269,6034,
 04/17/2025,03/08/2020,03/14/2020,By Week,2020,,11,03/14/2020,Alabama,0,1091,101,61,0,,68,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/15/2020,03/21/2020,By Week,2020,,12,03/21/2020,Alabama,,1059,103,71,,,79,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Georgia,235,25413,30,1384,87,357,1875,
 04/17/2025,03/22/2020,03/28/2020,By Week,2020,,13,03/28/2020,Alabama,23,1073,105,69,,,93,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/29/2020,04/04/2020,By Week,2020,,14,04/04/2020,Alabama,49,1156,112,65,11,,106,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/05/2020,04/11/2020,By Week,2020,,15,04/11/2020,Alabama,81,1135,111,85,27,,143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/12/2020,04/18/2020,By Week,2020,,16,04/18/2020,Alabama,89,1149,117,94,26,0,157,
 04/17/2025,04/19/2020,04/25/2020,By Week,2020,,17,04/25/2020,Alabama,85,1139,114,77,20,,143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/26/2020,05/02/2020,By Week,2020,,18,05/02/2020,Alabama,81,1147,116,87,26,,143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Hawaii,365,12070,104,831,177,26,1045,
 04/17/2025,05/03/2020,05/09/2020,By Week,2020,,19,05/09/2020,Alabama,116,1171,116,93,34,,175,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/10/2020,05/16/2020,By Week,2020,,20,05/16/2020,Alabama,96,1148,115,89,30,,156,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/17/2020,05/23/2020,By Week,2020,,21,05/23/2020,Alabama,82,1153,118,83,24,0,141,
@@ -11535,6 +11545,29 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,02/25/2024,03/02/2024,By Week,2024,,9,03/02/2024,Rhode Island,,229,108,11,,,20,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/03/2024,03/09/2024,By Week,2024,,10,03/09/2024,Rhode Island,,189,86,10,,,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/10/2024,03/16/2024,By Week,2024,,11,03/16/2024,Rhode Island,,186,92,11,,,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Hawaii,744,12879,111,1096,442,,1398,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Hawaii,643,13316,115,1048,273,20,1437,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Hawaii,265,12744,110,898,113,33,1078,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Hawaii,221,12875,111,854,90,32,1016,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Hawaii,10,3442,30,216,,36,258,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Idaho,1541,16468,116,1233,644,35,2161,
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Idaho,2785,18363,130,2167,1619,,3336,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Idaho,1084,17083,121,1060,481,72,1731,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Idaho,324,16494,117,726,125,46,967,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Idaho,241,16783,119,676,86,61,891,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Idaho,37,4613,33,161,,67,255,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Illinois,16721,128733,121,14414,8017,223,23336,
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Illinois,11788,120967,114,12207,7045,14,16960,
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Illinois,8720,119471,112,9659,4274,269,14353,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Illinois,2351,110422,104,6093,867,150,7716,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Illinois,1412,108649,102,5908,588,250,6969,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Illinois,374,32412,30,1876,168,517,2586,
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Indiana,9776,79145,119,8906,4572,178,14281,
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Indiana,10054,79322,120,9515,6014,23,13572,
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Indiana,6032,76091,115,6685,2978,231,9953,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Indiana,1719,70397,106,4538,671,129,5706,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Indiana,1077,70029,106,4429,443,219,5264,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Indiana,324,19827,30,1430,138,493,2091,
 04/17/2025,03/17/2024,03/23/2024,By Week,2024,,12,03/23/2024,Rhode Island,,198,95,,0,,14,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/24/2024,03/30/2024,By Week,2024,,13,03/30/2024,Rhode Island,,195,100,11,,0,11,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/31/2024,04/06/2024,By Week,2024,,14,04/06/2024,Rhode Island,,206,95,,0,,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -11563,6 +11596,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,09/08/2024,09/14/2024,By Week,2024,,37,09/14/2024,Rhode Island,,200,106,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/15/2024,09/21/2024,By Week,2024,,38,09/21/2024,Rhode Island,,192,98,14,0,0,16,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/22/2024,09/28/2024,By Week,2024,,39,09/28/2024,Rhode Island,,169,86,,0,0,10,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Iowa,4769,35658,117,3382,1612,96,6633,
 04/17/2025,09/29/2024,10/05/2024,By Week,2024,,40,10/05/2024,Rhode Island,,214,111,,,0,12,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/06/2024,10/12/2024,By Week,2024,,41,10/12/2024,Rhode Island,,189,100,11,,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/13/2024,10/19/2024,By Week,2024,,42,10/19/2024,Rhode Island,,217,105,10,0,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -11699,6 +11733,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/02/2022,01/08/2022,By Week,2022,,1,01/08/2022,South Carolina,204,1341,134,174,102,,279,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/09/2022,01/15/2022,By Week,2022,,2,01/15/2022,South Carolina,270,1509,145,201,123,,352,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/16/2022,01/22/2022,By Week,2022,,3,01/22/2022,South Carolina,363,1535,147,214,158,,419,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Iowa,3526,33999,112,3038,1534,17,5045,
 04/17/2025,01/23/2022,01/29/2022,By Week,2022,,4,01/29/2022,South Carolina,489,1673,160,275,221,,544,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/30/2022,02/05/2022,By Week,2022,,5,02/05/2022,South Carolina,455,1634,156,277,225,,507,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/06/2022,02/12/2022,By Week,2022,,6,02/12/2022,South Carolina,382,1460,143,248,201,0,429,
@@ -11731,6 +11766,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/14/2022,08/20/2022,By Week,2022,,33,08/20/2022,South Carolina,77,1084,122,71,21,0,127,
 04/17/2025,08/21/2022,08/27/2022,By Week,2022,,34,08/27/2022,South Carolina,74,1112,129,69,22,0,121,
 04/17/2025,08/28/2022,09/03/2022,By Week,2022,,35,09/03/2022,South Carolina,56,1035,115,63,20,0,99,
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Iowa,2242,33788,111,2333,799,141,3909,
 04/17/2025,09/04/2022,09/10/2022,By Week,2022,,36,09/10/2022,South Carolina,56,1131,127,83,22,0,117,
 04/17/2025,09/11/2022,09/17/2022,By Week,2022,,37,09/17/2022,South Carolina,37,1040,116,63,14,,87,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/18/2022,09/24/2022,By Week,2022,,38,09/24/2022,South Carolina,42,1081,120,56,13,0,85,
@@ -12060,6 +12096,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/20/2023,08/26/2023,By Week,2023,,34,08/26/2023,South Dakota,,182,127,13,,0,14,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/27/2023,09/02/2023,By Week,2023,,35,09/02/2023,South Dakota,,175,116,15,,0,17,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/03/2023,09/09/2023,By Week,2023,,36,09/09/2023,South Dakota,,163,112,13,,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Iowa,790,32332,106,1714,216,86,2368,
 04/17/2025,09/10/2023,09/16/2023,By Week,2023,,37,09/16/2023,South Dakota,,171,110,,0,0,10,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/17/2023,09/23/2023,By Week,2023,,38,09/23/2023,South Dakota,,177,113,12,,0,16,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/24/2023,09/30/2023,By Week,2023,,39,09/30/2023,South Dakota,,160,108,12,,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12116,6 +12153,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,09/15/2024,09/21/2024,By Week,2024,,38,09/21/2024,South Dakota,,175,112,,0,0,12,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/22/2024,09/28/2024,By Week,2024,,39,09/28/2024,South Dakota,,159,108,,,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/29/2024,10/05/2024,By Week,2024,,40,10/05/2024,South Dakota,,180,113,16,,0,20,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Iowa,513,32462,107,1666,153,121,2144,
 04/17/2025,10/06/2024,10/12/2024,By Week,2024,,41,10/12/2024,South Dakota,,163,97,12,0,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/13/2024,10/19/2024,By Week,2024,,42,10/19/2024,South Dakota,,177,104,14,,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/20/2024,10/26/2024,By Week,2024,,43,10/26/2024,South Dakota,,186,117,11,,0,11,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12277,6 +12315,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,07/03/2022,07/09/2022,By Week,2022,,27,07/09/2022,Tennessee,78,1562,112,95,29,,145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/10/2022,07/16/2022,By Week,2022,,28,07/16/2022,Tennessee,88,1526,112,118,26,0,180,
 04/17/2025,07/17/2022,07/23/2022,By Week,2022,,29,07/23/2022,Tennessee,99,1574,116,115,27,,187,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Iowa,113,9263,31,544,38,196,808,
 04/17/2025,07/24/2022,07/30/2022,By Week,2022,,30,07/30/2022,Tennessee,100,1548,114,95,29,,166,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/31/2022,08/06/2022,By Week,2022,,31,08/06/2022,Tennessee,107,1614,116,132,41,,199,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/07/2022,08/13/2022,By Week,2022,,32,08/13/2022,Tennessee,94,1612,120,136,38,0,192,
@@ -12311,6 +12350,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,02/26/2023,03/04/2023,By Week,2023,,9,03/04/2023,Tennessee,61,1596,108,109,21,0,149,
 04/17/2025,03/05/2023,03/11/2023,By Week,2023,,10,03/11/2023,Tennessee,38,1593,109,116,16,,140,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/12/2023,03/18/2023,By Week,2023,,11,03/18/2023,Tennessee,43,1652,111,105,17,,135,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Kansas,3510,31125,118,2939,1497,122,5071,
 04/17/2025,03/19/2023,03/25/2023,By Week,2023,,12,03/25/2023,Tennessee,58,1653,114,123,24,,158,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/26/2023,04/01/2023,By Week,2023,,13,04/01/2023,Tennessee,38,1630,111,87,13,,114,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/02/2023,04/08/2023,By Week,2023,,14,04/08/2023,Tennessee,48,1549,106,94,11,,134,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12400,6 +12440,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,11/10/2024,11/16/2024,By Week,2024,,46,11/16/2024,Tennessee,14,1514,104,88,,,99,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/17/2024,11/23/2024,By Week,2024,,47,11/23/2024,Tennessee,,1526,103,90,,,99,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/24/2024,11/30/2024,By Week,2024,,48,11/30/2024,Tennessee,11,1544,105,113,,,122,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Kansas,3806,31044,117,3159,1854,14,5125,
 04/17/2025,12/01/2024,12/07/2024,By Week,2024,,49,12/07/2024,Tennessee,16,1646,108,104,,,115,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/08/2024,12/14/2024,By Week,2024,,50,12/14/2024,Tennessee,18,1713,110,107,,,121,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/15/2024,12/21/2024,By Week,2024,,51,12/21/2024,Tennessee,17,1626,108,114,11,,127,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12657,6 +12698,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,06/30/2024,07/06/2024,By Week,2024,,27,07/06/2024,Texas,28,4434,121,228,12,,245,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/07/2024,07/13/2024,By Week,2024,,28,07/13/2024,Texas,45,4384,121,244,24,,267,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/14/2024,07/20/2024,By Week,2024,,29,07/20/2024,Texas,54,4316,119,211,18,,252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Kansas,2410,30636,116,2300,999,134,3834,
 04/17/2025,07/21/2024,07/27/2024,By Week,2024,,30,07/27/2024,Texas,67,4282,116,245,30,,285,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/28/2024,08/03/2024,By Week,2024,,31,08/03/2024,Texas,85,4348,116,261,38,,311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/04/2024,08/10/2024,By Week,2024,,32,08/10/2024,Texas,88,4476,122,277,35,,331,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12720,6 +12762,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,05/31/2020,06/06/2020,By Week,2020,,23,06/06/2020,Utah,12,410,112,19,,0,28,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/07/2020,06/13/2020,By Week,2020,,24,06/13/2020,Utah,20,388,109,22,,0,35,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/14/2020,06/20/2020,By Week,2020,,25,06/20/2020,Utah,15,402,116,24,,0,34,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Kansas,666,28420,107,1523,208,51,2027,
 04/17/2025,06/21/2020,06/27/2020,By Week,2020,,26,06/27/2020,Utah,13,388,111,26,,0,34,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/28/2020,07/04/2020,By Week,2020,,27,07/04/2020,Utah,22,438,125,25,,0,41,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/05/2020,07/11/2020,By Week,2020,,28,07/11/2020,Utah,36,407,120,26,,0,53,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12887,6 +12930,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/13/2023,08/19/2023,By Week,2023,,33,08/19/2023,Utah,,413,121,22,,0,23,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/20/2023,08/26/2023,By Week,2023,,34,08/26/2023,Utah,,443,125,25,,0,26,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/27/2023,09/02/2023,By Week,2023,,35,09/02/2023,Utah,,377,111,11,,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Kansas,400,28367,107,1409,131,74,1751,
 04/17/2025,09/03/2023,09/09/2023,By Week,2023,,36,09/09/2023,Utah,,425,120,28,,0,31,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/10/2023,09/16/2023,By Week,2023,,37,09/16/2023,Utah,,450,132,18,0,0,21,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/17/2023,09/23/2023,By Week,2023,,38,09/23/2023,Utah,,414,117,24,,,27,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12944,6 +12988,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,09/15/2024,09/21/2024,By Week,2024,,38,09/21/2024,Utah,,434,123,15,,0,19,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/22/2024,09/28/2024,By Week,2024,,39,09/28/2024,Utah,10,472,132,12,,0,18,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/29/2024,10/05/2024,By Week,2024,,40,10/05/2024,Utah,,415,119,24,,,27,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Kansas,84,8436,32,507,33,178,733,
 04/17/2025,10/06/2024,10/12/2024,By Week,2024,,41,10/12/2024,Utah,,432,118,17,,0,20,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/13/2024,10/19/2024,By Week,2024,,42,10/19/2024,Utah,,409,110,17,,0,18,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/20/2024,10/26/2024,By Week,2024,,43,10/26/2024,Utah,,380,107,25,,0,27,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -12973,6 +13018,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,04/06/2025,04/12/2025,By Week,2025,,15,04/12/2025,Utah,,294,78,11,,,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/29/2019,01/04/2020,By Week,2019/2020,,1,01/04/2020,Vermont,0,92,75,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/05/2020,01/11/2020,By Week,2020,,2,01/11/2020,Vermont,0,102,82,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Kentucky,4619,55709,115,5965,2200,145,8524,
 04/17/2025,01/12/2020,01/18/2020,By Week,2020,,3,01/18/2020,Vermont,0,125,107,,0,,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/19/2020,01/25/2020,By Week,2020,,4,01/25/2020,Vermont,0,119,94,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/26/2020,02/01/2020,By Week,2020,,5,02/01/2020,Vermont,0,96,82,,0,,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13061,6 +13107,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/29/2021,09/04/2021,By Week,2021,,35,09/04/2021,Vermont,,120,117,,,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/05/2021,09/11/2021,By Week,2021,,36,09/11/2021,Vermont,,120,122,,,0,10,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/12/2021,09/18/2021,By Week,2021,,37,09/18/2021,Vermont,10,155,152,,,0,16,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Kentucky,8695,60370,125,8527,5081,18,12155,
 04/17/2025,09/19/2021,09/25/2021,By Week,2021,,38,09/25/2021,Vermont,14,149,149,16,,0,21,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/26/2021,10/02/2021,By Week,2021,,39,10/02/2021,Vermont,10,140,131,,,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/03/2021,10/09/2021,By Week,2021,,40,10/09/2021,Vermont,11,108,103,,,0,16,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13120,6 +13167,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,10/16/2022,10/22/2022,By Week,2022,,42,10/22/2022,Vermont,,115,98,,,0,15,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/23/2022,10/29/2022,By Week,2022,,43,10/29/2022,Vermont,14,136,120,13,,0,23,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/30/2022,11/05/2022,By Week,2022,,44,11/05/2022,Vermont,,156,136,10,,0,17,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Kentucky,5758,57183,118,6220,2577,279,9641,
 04/17/2025,11/06/2022,11/12/2022,By Week,2022,,45,11/12/2022,Vermont,,118,99,,,0,13,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/13/2022,11/19/2022,By Week,2022,,46,11/19/2022,Vermont,,134,114,,,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/20/2022,11/26/2022,By Week,2022,,47,11/26/2022,Vermont,,135,130,,,0,10,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13149,6 +13197,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,05/07/2023,05/13/2023,By Week,2023,,19,05/13/2023,Vermont,,107,116,,,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/14/2023,05/20/2023,By Week,2023,,20,05/20/2023,Vermont,,122,120,,,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/21/2023,05/27/2023,By Week,2023,,21,05/27/2023,Vermont,,101,93,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Kentucky,1874,53134,110,4242,666,100,5539,
 04/17/2025,05/28/2023,06/03/2023,By Week,2023,,22,06/03/2023,Vermont,,124,123,,0,,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/04/2023,06/10/2023,By Week,2023,,23,06/10/2023,Vermont,,100,96,,,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/11/2023,06/17/2023,By Week,2023,,24,06/17/2023,Vermont,,116,100,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13208,6 +13257,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,06/23/2024,06/29/2024,By Week,2024,,26,06/29/2024,Vermont,0,109,109,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/30/2024,07/06/2024,By Week,2024,,27,07/06/2024,Vermont,0,104,93,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/07/2024,07/13/2024,By Week,2024,,28,07/13/2024,Vermont,,113,119,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Kentucky,1153,52264,108,3894,399,210,4845,
 04/17/2025,07/14/2024,07/20/2024,By Week,2024,,29,07/20/2024,Vermont,,117,117,,,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/21/2024,07/27/2024,By Week,2024,,30,07/27/2024,Vermont,0,111,111,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/28/2024,08/03/2024,By Week,2024,,31,08/03/2024,Vermont,,111,104,,0,0,,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13268,6 +13318,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,05/03/2020,05/09/2020,By Week,2020,,19,05/09/2020,Virginia,238,1593,126,117,66,,291,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/10/2020,05/16/2020,By Week,2020,,20,05/16/2020,Virginia,200,1565,126,107,61,0,246,
 04/17/2025,05/17/2020,05/23/2020,By Week,2020,,21,05/23/2020,Virginia,170,1464,118,102,59,0,213,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Kentucky,316,14105,29,1196,130,396,1769,
 04/17/2025,05/24/2020,05/30/2020,By Week,2020,,22,05/30/2020,Virginia,160,1443,113,98,49,,210,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/31/2020,06/06/2020,By Week,2020,,23,06/06/2020,Virginia,105,1410,112,90,37,0,158,
 04/17/2025,06/07/2020,06/13/2020,By Week,2020,,24,06/13/2020,Virginia,110,1422,112,105,45,0,170,
@@ -13414,6 +13465,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,02/19/2023,02/25/2023,By Week,2023,,8,02/25/2023,Virginia,61,1577,113,79,21,,122,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/26/2023,03/04/2023,By Week,2023,,9,03/04/2023,Virginia,42,1470,105,69,13,,101,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/05/2023,03/11/2023,By Week,2023,,10,03/11/2023,Virginia,49,1513,111,85,23,0,111,
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Louisiana,7066,56828,123,5747,3550,96,9352,
 04/17/2025,03/12/2023,03/18/2023,By Week,2023,,11,03/18/2023,Virginia,32,1535,113,60,,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/19/2023,03/25/2023,By Week,2023,,12,03/25/2023,Virginia,34,1523,109,81,10,,106,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/26/2023,04/01/2023,By Week,2023,,13,04/01/2023,Virginia,24,1447,107,58,,,78,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13476,6 +13528,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,04/28/2024,05/04/2024,By Week,2024,,18,05/04/2024,Virginia,21,1475,115,71,12,,82,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/05/2024,05/11/2024,By Week,2024,,19,05/11/2024,Virginia,,1350,106,70,,,74,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/12/2024,05/18/2024,By Week,2024,,20,05/18/2024,Virginia,,1407,113,58,0,,67,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Louisiana,6919,57499,125,5677,3776,18,8833,
 04/17/2025,05/19/2024,05/25/2024,By Week,2024,,21,05/25/2024,Virginia,,1392,112,62,,,73,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/26/2024,06/01/2024,By Week,2024,,22,06/01/2024,Virginia,,1334,105,57,0,0,62,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/02/2024,06/08/2024,By Week,2024,,23,06/08/2024,Virginia,,1367,109,61,,0,64,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13506,6 +13559,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,11/24/2024,11/30/2024,By Week,2024,,48,11/30/2024,Virginia,11,1430,104,70,,,75,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/01/2024,12/07/2024,By Week,2024,,49,12/07/2024,Virginia,10,1502,110,78,,0,84,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/08/2024,12/14/2024,By Week,2024,,50,12/14/2024,Virginia,10,1603,115,90,,,98,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Louisiana,3113,52527,114,3030,1356,88,4872,
 04/17/2025,12/15/2024,12/21/2024,By Week,2024,,51,12/21/2024,Virginia,11,1537,108,83,,,95,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/22/2024,12/28/2024,By Week,2024,,52,12/28/2024,Virginia,14,1607,115,72,,,89,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/29/2024,01/04/2025,By Week,2025,,1,01/04/2025,Virginia,32,1598,112,87,13,13,119,
@@ -13538,6 +13592,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,03/22/2020,03/28/2020,By Week,2020,,13,03/28/2020,Washington,126,1294,117,167,66,,234,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/29/2020,04/04/2020,By Week,2020,,14,04/04/2020,Washington,160,1305,114,162,85,,245,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/05/2020,04/11/2020,By Week,2020,,15,04/11/2020,Washington,149,1304,116,140,85,0,204,
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Louisiana,889,49547,108,1969,283,89,2659,
 04/17/2025,04/12/2020,04/18/2020,By Week,2020,,16,04/18/2020,Washington,125,1251,116,131,70,,190,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/19/2020,04/25/2020,By Week,2020,,17,04/25/2020,Washington,108,1231,119,110,52,,167,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/26/2020,05/02/2020,By Week,2020,,18,05/02/2020,Washington,80,1157,106,97,42,,137,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13620,6 +13675,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,10/17/2021,10/23/2021,By Week,2021,,42,10/23/2021,Washington,166,1373,129,190,127,,230,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/24/2021,10/30/2021,By Week,2021,,43,10/30/2021,Washington,162,1396,125,166,120,0,208,
 04/17/2025,10/31/2021,11/06/2021,By Week,2021,,44,11/06/2021,Washington,159,1418,128,182,129,0,212,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Louisiana,602,49171,107,1934,224,124,2430,
 04/17/2025,11/07/2021,11/13/2021,By Week,2021,,45,11/13/2021,Washington,159,1397,127,171,125,,206,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/14/2021,11/20/2021,By Week,2021,,46,11/20/2021,Washington,139,1341,122,132,99,,173,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/21/2021,11/27/2021,By Week,2021,,47,11/27/2021,Washington,150,1336,123,164,109,0,205,
@@ -13689,6 +13745,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,02/12/2023,02/18/2023,By Week,2023,,7,02/18/2023,Washington,43,1280,106,89,26,,109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/19/2023,02/25/2023,By Week,2023,,8,02/25/2023,Washington,45,1297,111,78,20,,105,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/26/2023,03/04/2023,By Week,2023,,9,03/04/2023,Washington,38,1342,114,89,18,0,109,
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Louisiana,85,11678,25,484,35,77,610,
 04/17/2025,03/05/2023,03/11/2023,By Week,2023,,10,03/11/2023,Washington,32,1336,116,74,17,,91,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/12/2023,03/18/2023,By Week,2023,,11,03/18/2023,Washington,36,1294,111,68,14,,91,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/19/2023,03/25/2023,By Week,2023,,12,03/25/2023,Washington,40,1281,108,80,14,,107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13750,6 +13807,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,04/14/2024,04/20/2024,By Week,2024,,16,04/20/2024,Washington,10,1207,112,68,,,80,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/21/2024,04/27/2024,By Week,2024,,17,04/27/2024,Washington,,1253,122,70,,,80,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/28/2024,05/04/2024,By Week,2024,,18,05/04/2024,Washington,,1172,108,61,,,64,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Maine,465,15620,107,1023,108,37,1417,
 04/17/2025,05/05/2024,05/11/2024,By Week,2024,,19,05/11/2024,Washington,10,1285,119,81,,,87,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/12/2024,05/18/2024,By Week,2024,,20,05/18/2024,Washington,,1209,111,71,,,74,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/19/2024,05/25/2024,By Week,2024,,21,05/25/2024,Washington,,1161,115,53,,,55,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13810,6 +13868,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,02/23/2020,02/29/2020,By Week,2020,,9,02/29/2020,West Virginia,0,460,102,42,0,,44,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/01/2020,03/07/2020,By Week,2020,,10,03/07/2020,West Virginia,0,483,107,29,0,,36,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/08/2020,03/14/2020,By Week,2020,,11,03/14/2020,West Virginia,0,475,104,37,0,,45,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,South Dakota,166,8984,109,607,49,58,780,
 04/17/2025,03/15/2020,03/21/2020,By Week,2020,,12,03/21/2020,West Virginia,0,470,99,37,0,,46,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/22/2020,03/28/2020,By Week,2020,,13,03/28/2020,West Virginia,,491,104,25,0,,33,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/29/2020,04/04/2020,By Week,2020,,14,04/04/2020,West Virginia,,467,102,46,0,,52,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13881,6 +13940,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,07/04/2021,07/10/2021,By Week,2021,,27,07/10/2021,West Virginia,11,471,114,30,,0,37,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/11/2021,07/17/2021,By Week,2021,,28,07/17/2021,West Virginia,,407,101,27,,0,29,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/18/2021,07/24/2021,By Week,2021,,29,07/24/2021,West Virginia,,441,116,36,,0,40,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,South Dakota,48,2347,29,165,14,84,281,
 04/17/2025,07/25/2021,07/31/2021,By Week,2021,,30,07/31/2021,West Virginia,18,467,113,39,,0,48,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/01/2021,08/07/2021,By Week,2021,,31,08/07/2021,West Virginia,26,525,136,42,14,0,54,
 04/17/2025,08/08/2021,08/14/2021,By Week,2021,,32,08/14/2021,West Virginia,32,512,134,64,23,0,73,
@@ -13920,6 +13980,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,04/03/2022,04/09/2022,By Week,2022,,14,04/09/2022,West Virginia,26,503,110,55,10,0,71,
 04/17/2025,04/10/2022,04/16/2022,By Week,2022,,15,04/16/2022,West Virginia,13,477,103,44,,,55,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/17/2022,04/23/2022,By Week,2022,,16,04/23/2022,West Virginia,16,502,115,52,,,63,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Tennessee,7927,88401,118,9281,4057,239,13381,
 04/17/2025,04/24/2022,04/30/2022,By Week,2022,,17,04/30/2022,West Virginia,13,461,110,47,,,55,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/01/2022,05/07/2022,By Week,2022,,18,05/07/2022,West Virginia,11,443,101,36,,,47,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/08/2022,05/14/2022,By Week,2022,,19,05/14/2022,West Virginia,21,465,112,30,,,50,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -13952,6 +14013,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,11/13/2022,11/19/2022,By Week,2022,,46,11/19/2022,West Virginia,16,505,118,48,,,66,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/20/2022,11/26/2022,By Week,2022,,47,11/26/2022,West Virginia,26,542,123,58,,,83,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,11/27/2022,12/03/2022,By Week,2022,,48,12/03/2022,West Virginia,16,508,120,47,,14,73,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Tennessee,13705,95189,127,12349,7714,76,18401,
 04/17/2025,12/04/2022,12/10/2022,By Week,2022,,49,12/10/2022,West Virginia,25,556,121,51,10,,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,12/11/2022,12/17/2022,By Week,2022,,50,12/17/2022,West Virginia,26,545,117,64,11,12,89,
 04/17/2025,12/18/2022,12/24/2022,By Week,2022,,51,12/24/2022,West Virginia,26,609,132,56,,13,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14039,6 +14101,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,07/14/2024,07/20/2024,By Week,2024,,29,07/20/2024,West Virginia,,420,111,33,0,0,34,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/21/2024,07/27/2024,By Week,2024,,30,07/27/2024,West Virginia,,433,104,35,,0,36,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/28/2024,08/03/2024,By Week,2024,,31,08/03/2024,West Virginia,,428,111,36,,0,39,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Tennessee,7223,88632,119,7882,3275,267,12065,
 04/17/2025,08/04/2024,08/10/2024,By Week,2024,,32,08/10/2024,West Virginia,,416,109,33,,0,39,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/11/2024,08/17/2024,By Week,2024,,33,08/17/2024,West Virginia,,401,97,37,,0,40,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/18/2024,08/24/2024,By Week,2024,,34,08/24/2024,West Virginia,12,454,114,49,,0,54,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14204,6 +14267,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,05/29/2022,06/04/2022,By Week,2022,,22,06/04/2022,Wisconsin,34,1028,108,56,10,,81,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/05/2022,06/11/2022,By Week,2022,,23,06/11/2022,Wisconsin,32,1060,111,55,14,0,73,
 04/17/2025,06/12/2022,06/18/2022,By Week,2022,,24,06/18/2022,Wisconsin,32,1038,111,42,,0,66,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Tennessee,2178,83193,111,5661,797,185,7206,
 04/17/2025,06/19/2022,06/25/2022,By Week,2022,,25,06/25/2022,Wisconsin,31,1078,113,35,,,64,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/26/2022,07/02/2022,By Week,2022,,26,07/02/2022,Wisconsin,28,1099,111,45,10,0,63,
 04/17/2025,07/03/2022,07/09/2022,By Week,2022,,27,07/09/2022,Wisconsin,36,989,103,45,11,0,70,
@@ -14239,6 +14303,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/29/2023,02/04/2023,By Week,2023,,5,02/04/2023,Wisconsin,40,1156,103,61,11,,94,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/05/2023,02/11/2023,By Week,2023,,6,02/11/2023,Wisconsin,36,1140,103,76,15,,98,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/12/2023,02/18/2023,By Week,2023,,7,02/18/2023,Wisconsin,31,1114,103,48,10,,73,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Tennessee,1308,82934,111,5528,524,302,6588,
 04/17/2025,02/19/2023,02/25/2023,By Week,2023,,8,02/25/2023,Wisconsin,43,1118,108,56,12,,90,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,02/26/2023,03/04/2023,By Week,2023,,9,03/04/2023,Wisconsin,36,1110,107,67,14,,90,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/05/2023,03/11/2023,By Week,2023,,10,03/11/2023,Wisconsin,27,1089,103,60,,0,81,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14267,6 +14332,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/13/2023,08/19/2023,By Week,2023,,33,08/19/2023,Wisconsin,10,1052,112,41,,0,47,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/20/2023,08/26/2023,By Week,2023,,34,08/26/2023,Wisconsin,,1001,106,34,,0,39,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/27/2023,09/02/2023,By Week,2023,,35,09/02/2023,Wisconsin,15,1079,107,44,,0,53,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Tennessee,313,24118,32,1823,134,319,2307,
 04/17/2025,09/03/2023,09/09/2023,By Week,2023,,36,09/09/2023,Wisconsin,11,1027,105,43,,0,49,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/10/2023,09/16/2023,By Week,2023,,37,09/16/2023,Wisconsin,,1018,102,35,,0,39,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/17/2023,09/23/2023,By Week,2023,,38,09/23/2023,Wisconsin,17,1091,112,54,,0,65,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14297,6 +14363,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,03/10/2024,03/16/2024,By Week,2024,,11,03/16/2024,Wisconsin,15,1044,99,51,,,68,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/17/2024,03/23/2024,By Week,2024,,12,03/23/2024,Wisconsin,10,1005,93,59,,,70,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/24/2024,03/30/2024,By Week,2024,,13,03/30/2024,Wisconsin,14,1121,109,47,,,62,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Texas,33542,253701,124,31667,18030,578,47720,
 04/17/2025,03/31/2024,04/06/2024,By Week,2024,,14,04/06/2024,Wisconsin,13,1103,105,54,,,63,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/07/2024,04/13/2024,By Week,2024,,15,04/13/2024,Wisconsin,13,1122,107,61,,,77,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/14/2024,04/20/2024,By Week,2024,,16,04/20/2024,Wisconsin,,1049,104,48,0,,61,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14325,6 +14392,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,09/22/2024,09/28/2024,By Week,2024,,39,09/28/2024,Wisconsin,14,1054,107,51,,,60,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/29/2024,10/05/2024,By Week,2024,,40,10/05/2024,Wisconsin,17,1039,105,51,,,61,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/06/2024,10/12/2024,By Week,2024,,41,10/12/2024,Wisconsin,,1088,106,46,,,51,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Texas,48787,271496,133,41389,29152,164,61139,
 04/17/2025,10/13/2024,10/19/2024,By Week,2024,,42,10/19/2024,Wisconsin,20,1113,105,54,,0,66,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/20/2024,10/26/2024,By Week,2024,,43,10/26/2024,Wisconsin,12,1103,105,50,,0,57,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,10/27/2024,11/02/2024,By Week,2024,,44,11/02/2024,Wisconsin,20,1073,103,55,10,,66,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14664,6 +14732,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/23/2020,08/29/2020,By Week,2020,,35,08/29/2020,Puerto Rico,27,607,113,87,19,,96,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/30/2020,09/05/2020,By Week,2020,,36,09/05/2020,Puerto Rico,48,641,121,91,29,,111,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/06/2020,09/12/2020,By Week,2020,,37,09/12/2020,Puerto Rico,71,633,112,94,48,0,117,
+04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Texas,18614,245458,120,21570,9488,591,31213,
 04/17/2025,09/13/2020,09/19/2020,By Week,2020,,38,09/19/2020,Puerto Rico,45,625,106,87,28,,106,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/20/2020,09/26/2020,By Week,2020,,39,09/26/2020,Puerto Rico,45,628,94,88,32,0,101,
 04/17/2025,09/27/2020,10/03/2020,By Week,2020,,40,10/03/2020,Puerto Rico,50,595,98,110,40,,120,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14697,6 +14766,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,04/11/2021,04/17/2021,By Week,2021,,15,04/17/2021,Puerto Rico,54,656,122,110,42,0,122,
 04/17/2025,04/18/2021,04/24/2021,By Week,2021,,16,04/24/2021,Puerto Rico,58,699,133,112,48,,122,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/25/2021,05/01/2021,By Week,2021,,17,05/01/2021,Puerto Rico,54,628,116,99,42,,112,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Texas,4806,232919,114,14677,2194,476,17709,
 04/17/2025,05/02/2021,05/08/2021,By Week,2021,,18,05/08/2021,Puerto Rico,55,672,125,106,51,,111,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,05/09/2021,05/15/2021,By Week,2021,,19,05/15/2021,Puerto Rico,56,663,122,97,46,0,107,
 04/17/2025,05/16/2021,05/22/2021,By Week,2021,,20,05/22/2021,Puerto Rico,37,644,114,86,28,,96,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14759,6 +14829,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,06/19/2022,06/25/2022,By Week,2022,,25,06/25/2022,Puerto Rico,70,659,121,109,42,,138,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,06/26/2022,07/02/2022,By Week,2022,,26,07/02/2022,Puerto Rico,56,683,123,109,39,0,126,
 04/17/2025,07/03/2022,07/09/2022,By Week,2022,,27,07/09/2022,Puerto Rico,45,701,124,92,28,0,109,
+04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Texas,2806,233123,114,14151,1372,650,16194,
 04/17/2025,07/10/2022,07/16/2022,By Week,2022,,28,07/16/2022,Puerto Rico,45,669,121,90,29,,107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,07/17/2022,07/23/2022,By Week,2022,,29,07/23/2022,Puerto Rico,48,664,121,77,32,0,93,
 04/17/2025,07/24/2022,07/30/2022,By Week,2022,,30,07/30/2022,Puerto Rico,47,657,125,105,29,,124,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14872,6 +14943,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,08/18/2024,08/24/2024,By Week,2024,,34,08/24/2024,Puerto Rico,15,543,105,91,13,,95,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,08/25/2024,08/31/2024,By Week,2024,,35,08/31/2024,Puerto Rico,12,566,105,87,,,94,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/01/2024,09/07/2024,By Week,2024,,36,09/07/2024,Puerto Rico,,598,113,77,,,83,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Texas,457,63958,31,4173,213,776,5169,
 04/17/2025,09/08/2024,09/14/2024,By Week,2024,,37,09/14/2024,Puerto Rico,,567,100,72,,,75,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/15/2024,09/21/2024,By Week,2024,,38,09/21/2024,Puerto Rico,,649,110,73,,0,75,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,09/22/2024,09/28/2024,By Week,2024,,39,09/28/2024,Puerto Rico,,592,88,68,,0,70,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -14900,6 +14972,7 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,03/02/2025,03/08/2025,By Week,2025,,10,03/08/2025,Puerto Rico,,616,104,68,,,75,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/09/2025,03/15/2025,By Week,2025,,11,03/15/2025,Puerto Rico,,632,109,99,,,107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/16/2025,03/22/2025,By Week,2025,,12,03/22/2025,Puerto Rico,,594,104,73,0,,75,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Utah,1657,22212,117,1676,685,54,2702,
 04/17/2025,03/23/2025,03/29/2025,By Week,2025,,13,03/29/2025,Puerto Rico,,545,101,91,,,96,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,03/30/2025,04/05/2025,By Week,2025,,14,04/05/2025,Puerto Rico,,469,85,78,,,82,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,04/06/2025,04/12/2025,By Week,2025,,15,04/12/2025,Puerto Rico,,329,61,70,,0,70,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
@@ -18422,64 +18495,6 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Florida,21828,243105,117,25437,12486,486,35230,
 04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Florida,38875,264827,127,38995,26626,87,51306,
 04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Florida,16912,242593,117,21605,8973,398,29904,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Florida,5573,231933,112,15896,2708,515,19238,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Florida,3743,230848,111,15308,1845,690,17845,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Florida,420,64641,31,4421,204,781,5402,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Georgia,10454,103561,122,9619,5131,200,15137,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Georgia,17310,112795,132,13916,9815,47,21442,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Georgia,7229,102871,121,7308,3186,202,11531,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Georgia,2065,96883,114,4832,766,187,6309,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Georgia,1375,96654,113,4941,530,269,6034,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Georgia,235,25413,30,1384,87,357,1875,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Hawaii,365,12070,104,831,177,26,1045,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Hawaii,744,12879,111,1096,442,,1398,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Hawaii,643,13316,115,1048,273,20,1437,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Hawaii,265,12744,110,898,113,33,1078,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Hawaii,221,12875,111,854,90,32,1016,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Hawaii,10,3442,30,216,,36,258,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Idaho,1541,16468,116,1233,644,35,2161,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Idaho,2785,18363,130,2167,1619,,3336,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Idaho,1084,17083,121,1060,481,72,1731,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Idaho,324,16494,117,726,125,46,967,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Idaho,241,16783,119,676,86,61,891,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Idaho,37,4613,33,161,,67,255,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Illinois,16721,128733,121,14414,8017,223,23336,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Illinois,11788,120967,114,12207,7045,14,16960,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Illinois,8720,119471,112,9659,4274,269,14353,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Illinois,2351,110422,104,6093,867,150,7716,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Illinois,1412,108649,102,5908,588,250,6969,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Illinois,374,32412,30,1876,168,517,2586,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Indiana,9776,79145,119,8906,4572,178,14281,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Indiana,10054,79322,120,9515,6014,23,13572,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Indiana,6032,76091,115,6685,2978,231,9953,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Indiana,1719,70397,106,4538,671,129,5706,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Indiana,1077,70029,106,4429,443,219,5264,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Indiana,324,19827,30,1430,138,493,2091,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Iowa,4769,35658,117,3382,1612,96,6633,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Iowa,3526,33999,112,3038,1534,17,5045,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Iowa,2242,33788,111,2333,799,141,3909,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Iowa,790,32332,106,1714,216,86,2368,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Iowa,513,32462,107,1666,153,121,2144,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Iowa,113,9263,31,544,38,196,808,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Kansas,3510,31125,118,2939,1497,122,5071,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Kansas,3806,31044,117,3159,1854,14,5125,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Kansas,2410,30636,116,2300,999,134,3834,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Kansas,666,28420,107,1523,208,51,2027,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Kansas,400,28367,107,1409,131,74,1751,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Kansas,84,8436,32,507,33,178,733,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Kentucky,4619,55709,115,5965,2200,145,8524,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Kentucky,8695,60370,125,8527,5081,18,12155,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Kentucky,5758,57183,118,6220,2577,279,9641,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Kentucky,1874,53134,110,4242,666,100,5539,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Kentucky,1153,52264,108,3894,399,210,4845,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Kentucky,316,14105,29,1196,130,396,1769,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Louisiana,7066,56828,123,5747,3550,96,9352,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Louisiana,6919,57499,125,5677,3776,18,8833,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Louisiana,3113,52527,114,3030,1356,88,4872,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Louisiana,889,49547,108,1969,283,89,2659,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Louisiana,602,49171,107,1934,224,124,2430,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Louisiana,85,11678,25,484,35,77,610,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Maine,465,15620,107,1023,108,37,1417,
 04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Maine,1433,17129,117,1274,422,,2288,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Maine,1048,17145,117,1176,256,58,2023,
 04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Maine,461,16627,114,1046,123,43,1426,
@@ -18621,21 +18636,6 @@ Data as of,Start Date,End Date,Group,Year,Month,MMWR Week,Week Ending Date,State
 04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,South Dakota,987,9407,115,1086,563,,1516,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,South Dakota,634,9165,112,794,275,48,1199,
 04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,South Dakota,233,8733,106,644,72,29,833,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,South Dakota,166,8984,109,607,49,58,780,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,South Dakota,48,2347,29,165,14,84,281,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Tennessee,7927,88401,118,9281,4057,239,13381,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Tennessee,13705,95189,127,12349,7714,76,18401,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Tennessee,7223,88632,119,7882,3275,267,12065,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Tennessee,2178,83193,111,5661,797,185,7206,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Tennessee,1308,82934,111,5528,524,302,6588,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Tennessee,313,24118,32,1823,134,319,2307,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Texas,33542,253701,124,31667,18030,578,47720,
-04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Texas,48787,271496,133,41389,29152,164,61139,
-04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Texas,18614,245458,120,21570,9488,591,31213,
-04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Texas,4806,232919,114,14677,2194,476,17709,
-04/17/2025,01/01/2024,12/31/2024,By Year,2024,,,,Texas,2806,233123,114,14151,1372,650,16194,
-04/17/2025,01/01/2025,04/12/2025,By Year,2025,,,,Texas,457,63958,31,4173,213,776,5169,
-04/17/2025,01/01/2020,12/31/2020,By Year,2020,,,,Utah,1657,22212,117,1676,685,54,2702,
 04/17/2025,01/01/2021,12/31/2021,By Year,2021,,,,Utah,2671,23519,124,2277,1437,,3514,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
 04/17/2025,01/01/2022,12/31/2022,By Year,2022,,,,Utah,1332,22768,120,1499,589,73,2310,
 04/17/2025,01/01/2023,12/31/2023,By Year,2023,,,,Utah,351,22115,116,1142,163,64,1388,

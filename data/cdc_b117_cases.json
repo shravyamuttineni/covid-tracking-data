@@ -16,13 +16,11 @@
 	<link rel="mask-icon" href="/TemplatePackage/5.0/img/favicon/safari-pinned-tab.svg" color="#0056b3">
 	<meta name="msapplication-TileColor" content="#0056b3">
 	<meta name="theme-color" content="#0056b3">
-	<link rel="stylesheet prefetch" href="/TemplatePackage/5.0/css/app.min.css?_=91329" />
-	<link rel="stylesheet" media="print" href="/TemplatePackage/5.0/css/print.min.css?_=91329" />
+	<link rel="stylesheet prefetch" href="/TemplatePackage/5.0/css/app.css?_=29125" />
+	<link rel="stylesheet" media="print" href="/TemplatePackage/5.0/css/print.css?_=29125" />
 	<link rel="manifest" href="/TemplatePackage/5.0/json/manifest.json">
-	<script src="https://www.cdc.gov/JScript/metrics/topic_levels.js?_=53850"></script>
-	<script src="https://www.cdc.gov/JScript/metrics/adobe/launch/b36c1852e229/2c674008a127/launch-04da70ea688d.min.js?_=53850"></script>
+	<script src="https://www.cdc.gov/JScript/dmat/cdc-dmat.min.js?account=cdcgov&_=55003"></script>
 	<meta property="cdc:template_version" content="5.0" />
-
 </head>
 <body class="no-js cdc-dfe-cdc_homepage">
 	<div id="skipmenu">
@@ -91,9 +89,14 @@
 						<form action="https://search.cdc.gov/search/" method="GET" class="cdc-header__search" role="search">
 							<a href="#" id="cdc-search__toggle">Search</a>
 							<div class="input-group cdc-header__search__group">
-								<span class="cdc-header__search-icon cdc-fa-magnifying-glass" aria-hidden="true"></span>
-								<input class="form-control" data-search-input="" autocomplete="off" type="search" name="query" id="cdc-search__input" maxlength="300" placeholder="" spellcheck="false"><div class="cdc-search-complete"></div>
-								<button class="cdc-header__search-submit btn" type="submit" id="cdc-search__submit">Search</button>
+								<input class="form-control" data-search-input autocomplete="off" type="search"
+									name="query" id="cdc-search__input" maxlength="300" placeholder="Search">
+								<button class="btn" type="button" id="cdc-search__clear"><span
+										class="cdc-icon-close"><span class="visually-hidden">Clear
+											Input</span></span></button>
+								<button class="btn" type="submit" id="cdc-search__submit"><span
+										class="cdc-fa-magnifying-glass"><span
+											class="visually-hidden">Search</span></span></button>
 							</div>
 						</form>
 					</div>
@@ -332,10 +335,10 @@
 						</a>
 						<div class="cdc-footer__group col offset-lg-1 collapse" id="mobile-footer-aboutCDC">
 							<ul>
-								<li><a href="/about/organization/">Mission &amp; Organization</a></li>
+								<li><a href="https://www.cdc.gov/about/organization/">Mission &amp; Organization</a></li>
 								<li><a href="https://www.cdc.gov/budget/">Budget &amp; Funding</a></li>
 								<li><a href="https://jobs.cdc.gov/index.html">Careers &amp; Jobs</a></li>
-								<li><a href="/about/">About CDC</a></li>
+								<li><a href="https://www.cdc.gov/about/">About CDC</a></li>
 							</ul>
 						</div>
 						<a class="cdc-footer__heading" data-bs-toggle="collapse" href="#mobile-footer-policies"
@@ -377,7 +380,7 @@
 		<div class="cdc-footer__body">
 			<div class="row cdc-footer__inner">
 				<div class="col-lg-3 cdc-footer__body-logo">
-					<a href="/">
+					<a href="https://www.cdc.gov/">
 						<img src="/TemplatePackage/5.0/img/logo/cdc-logo-tag-right.svg"
 							alt="Centers for Disease Control and Prevention" />
 					</a>
@@ -422,6 +425,8 @@
 				</div>
 			</div>
 		</div>
+
+
 	</footer>
 
 	<!-- progress bar -->
@@ -434,18 +439,33 @@
 	<script src="/TemplatePackage/contrib/libs/jquery/latest/jquery.js?_=29125"></script>
 	<script src="/TemplatePackage/5.0/js/app.js?_=29125"></script>
 	<script>
-		CDC.ABTest = {};
-		CDC.SPA_App = {};
-		let docroot = document.getElementsByTagName( 'body' )[ 0 ];
-		docroot.addEventListener( 'adobe-launch-loaded', () => {
-			s.pageType = 'errorPage';
-			s.eVar61 = 'Page Not Found | CDC';
-			siteCatalyst.setChannel( 'CDC Top Tier' ); 
-			siteCatalyst.setLevel1( 'CDC Top Tier' ); 
-			siteCatalyst.setLevel2( 'CDC.gov Home Page' );
-			updateVariables();
-			s.t();
-		} );
+		(function(){ 
+
+			let pageViewTracked = false; 
+
+			function trackPageView(){ 
+				if(pageViewTracked) return; 
+				pageViewTracked = true; 
+
+				siteCatalyst.setChannel( 'CDC Top Tier' );   
+				siteCatalyst.setLevel1( 'CDC Top Tier' );   
+				siteCatalyst.setLevel2( 'CDC.gov Home Page' );  
+
+				_satellite.track('pageview', { 
+					pageType: 'errorPage', 
+					eVar61: 'Page Not Found | CDC', 
+					channel: 'CDC Top Tier', 
+					level1: 'CDC Top Tier', 
+					level2: 'jobs.cdc.gov Home Page', 
+				}); 
+			} 
+
+			if(document.body.classList.contains('dmat-load-complete')){ 
+				trackPageView(); 
+			} else { 
+				document.body.addEventListener( 'dmat-load-complete', trackPageView); 
+			} 
+		})() 
 	</script>
 <script>
 	$( document ).ready( function() {

@@ -89,14 +89,9 @@
 						<form action="https://search.cdc.gov/search/" method="GET" class="cdc-header__search" role="search">
 							<a href="#" id="cdc-search__toggle">Search</a>
 							<div class="input-group cdc-header__search__group">
-								<input class="form-control" data-search-input autocomplete="off" type="search"
-									name="query" id="cdc-search__input" maxlength="300" placeholder="Search">
-								<button class="btn" type="button" id="cdc-search__clear"><span
-										class="cdc-icon-close"><span class="visually-hidden">Clear
-											Input</span></span></button>
-								<button class="btn" type="submit" id="cdc-search__submit"><span
-										class="cdc-fa-magnifying-glass"><span
-											class="visually-hidden">Search</span></span></button>
+								<span class="cdc-header__search-icon cdc-fa-magnifying-glass" aria-hidden="true"></span>
+								<input class="form-control" data-search-input="" autocomplete="off" type="search" name="query" id="cdc-search__input" maxlength="300" placeholder="" spellcheck="false"><div class="cdc-search-complete"></div>
+								<button class="cdc-header__search-submit btn" type="submit" id="cdc-search__submit">Search</button>
 							</div>
 						</form>
 					</div>
@@ -380,7 +375,7 @@
 		<div class="cdc-footer__body">
 			<div class="row cdc-footer__inner">
 				<div class="col-lg-3 cdc-footer__body-logo">
-					<a href="https://www.cdc.gov/">
+					<a href="/">
 						<img src="/TemplatePackage/5.0/img/logo/cdc-logo-tag-right.svg"
 							alt="Centers for Disease Control and Prevention" />
 					</a>
@@ -425,8 +420,6 @@
 				</div>
 			</div>
 		</div>
-
-
 	</footer>
 
 	<!-- progress bar -->

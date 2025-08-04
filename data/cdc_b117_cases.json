@@ -19,7 +19,7 @@
 	<link rel="stylesheet prefetch" href="/TemplatePackage/5.0/css/app.css?_=29125" />
 	<link rel="stylesheet" media="print" href="/TemplatePackage/5.0/css/print.css?_=29125" />
 	<link rel="manifest" href="/TemplatePackage/5.0/json/manifest.json">
-	<script src="https://www.cdc.gov/JScript/dmat/cdc-dmat.min.js?account=cdcgov&_=55003"></script>
+	<script src="https://www.cdc.gov/JScript/dmat/cdc-dmat.min.js?account=cdcgov&pageview=false&_=55003"></script>
 	<meta property="cdc:template_version" content="5.0" />
 </head>
 <body class="no-js cdc-dfe-cdc_homepage">
@@ -432,7 +432,7 @@
 	<script src="/TemplatePackage/contrib/libs/jquery/latest/jquery.js?_=29125"></script>
 	<script src="/TemplatePackage/5.0/js/app.js?_=29125"></script>
 	<script>
-		(function(){ 
+		( function() { 
 
 			let pageViewTracked = false; 
 
@@ -442,31 +442,29 @@
 
 				siteCatalyst.setChannel( 'CDC Top Tier' );   
 				siteCatalyst.setLevel1( 'CDC Top Tier' );   
-				siteCatalyst.setLevel2( 'CDC.gov Home Page' );  
 
 				_satellite.track('pageview', { 
 					pageType: 'errorPage', 
 					eVar61: 'Page Not Found | CDC', 
 					channel: 'CDC Top Tier', 
-					level1: 'CDC Top Tier', 
-					level2: 'jobs.cdc.gov Home Page', 
+					level1: 'CDC Top Tier'
 				}); 
 			} 
 
-			if(document.body.classList.contains('dmat-load-complete')){ 
+			if ( document.body.classList.contains( 'dmat-load-complete' ) ) { 
 				trackPageView(); 
 			} else { 
-				document.body.addEventListener( 'dmat-load-complete', trackPageView); 
+				document.body.addEventListener( 'dmat-load-complete', trackPageView );
 			} 
-		})() 
+		} )();
 	</script>
-<script>
-	$( document ).ready( function() {
-		$( 'form.searchForm.searchAgain button').on( 'click', function() {
-			$( this ).parents( 'form' ).submit();
+	<script>
+		$( document ).ready( function() {
+			$( 'form.searchForm.searchAgain button').on( 'click', function() {
+				$( this ).parents( 'form' ).submit();
+			} );
 		} );
-	} );
-</script>
-<script src="/smart404.js"></script>
+	</script>
+	<script src="/smart404.js"></script>
 </body>
 </html>

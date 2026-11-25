@@ -1,5 +1,9 @@
 {
-  "code" : "not_found",
+  "code" : "feature_deprecated",
+  "deprecatedAt" : 1791331200,
+  "deprecationInfoLink" : "https://support.socrata.com/hc/en-us/articles/43491231777047",
   "error" : true,
-  "message" : "Cannot find view with id 9mfq-cb36"
+  "message" : "This feature has been deprecated",
+  "sunsetAt" : 1797897600,
+  "sunsetInfoLink" : "https://support.socrata.com/hc/en-us/articles/43491231777047"
 }
